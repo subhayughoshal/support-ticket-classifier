@@ -1,0 +1,121 @@
+{
+  "train_size": 174,
+  "test_size": 44,
+  "cv_accuracy": {
+    "Naive Bayes": {
+      "mean": 0.9139,
+      "std": 0.0598
+    },
+    "Logistic Regression": {
+      "mean": 0.9139,
+      "std": 0.0722
+    },
+    "Linear SVM": {
+      "mean": 0.9255,
+      "std": 0.064
+    }
+  },
+  "selected_model": "Logistic Regression",
+  "test_accuracy": 0.9545,
+  "test_precision_weighted": 0.9628,
+  "test_recall_weighted": 0.9545,
+  "test_f1_weighted": 0.9555,
+  "labels": [
+    "Account Update",
+    "Application Error",
+    "Login Issue",
+    "Performance",
+    "Report"
+  ],
+  "confusion_matrix": [
+    [
+      9,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8
+    ]
+  ],
+  "misclassified": [
+    {
+      "text": "cannot access my account and need to update my registered email",
+      "actual": "Login Issue",
+      "predicted": "Account Update"
+    },
+    {
+      "text": "why does the profile page take so long to save my new address",
+      "actual": "Performance",
+      "predicted": "Account Update"
+    }
+  ],
+  "top_features": {
+    "Account Update": [
+      "update my",
+      "my",
+      "update",
+      "change",
+      "to",
+      "to change"
+    ],
+    "Application Error": [
+      "error",
+      "an",
+      "application",
+      "an error",
+      "the application",
+      "while"
+    ],
+    "Login Issue": [
+      "password",
+      "login",
+      "sign",
+      "cannot",
+      "sign in",
+      "is not"
+    ],
+    "Performance": [
+      "slow",
+      "takes",
+      "is",
+      "very",
+      "is very",
+      "time"
+    ],
+    "Report": [
+      "report",
+      "monthly",
+      "report to",
+      "all",
+      "report of",
+      "of all"
+    ]
+  }
+}
