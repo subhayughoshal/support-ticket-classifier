@@ -4,6 +4,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![Flask](https://img.shields.io/badge/Flask-web%20app-lightgrey)
 
+**Author:** SUBHAYU GHOSHAL
+
+![Web app](screenshots/webapp.png)
 
 ## Project overview
 A small end-to-end machine-learning project that reads a customer support ticket
@@ -77,6 +80,5 @@ I reviewed, ran and understood all of the code. No API keys or external AI APIs 
 the bonus suggested replies are rule-based.
 
 ## Screenshots
-![Web app](screenshots/webapp.png)
 ![Confusion matrix](screenshots/confusion_matrix.png)
 ![Category distribution](screenshots/analysis_category.png)

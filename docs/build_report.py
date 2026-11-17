@@ -32,6 +32,7 @@ def table(data, widths=None, fs=8.5):
 
 story.append(Paragraph("Customer Support Ticket Classification - Solution Report", ss["Title"]))
 story.append(Paragraph("AI Fresher Technical Assignment", ss["Heading3"]))
+story.append(Paragraph("Author: YOUR FULL NAME", ss["Heading3"]))
 
 h("A. Problem Understanding")
 p("A company receives support tickets through email, chat and other channels. Reading and sorting each ticket by hand is slow. "
@@ -118,5 +119,5 @@ p("Libraries: pandas, NumPy, scikit-learn, Matplotlib, Seaborn, joblib, Flask, R
   "No API keys or credentials are included.")
 
 SimpleDocTemplate(str(ROOT / "report.pdf"), pagesize=A4, leftMargin=2 * cm, rightMargin=2 * cm, topMargin=1.8 * cm, bottomMargin=1.8 * cm,
-                  title="Customer Support Ticket Classification - Report").build(story)
+                  title="Customer Support Ticket Classification - Report", author="SUBHAYU GHOSHAL").build(story)
 print("report.pdf built")
