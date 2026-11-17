@@ -1,0 +1,227 @@
+ticket_id,ticket_description,category,priority,status
+T001,Loading the orders screen takes forever It started today.,Performance,High,In Progress
+T002,The application crashed while I was entering customer details This is blocking my work.,Application Error,High,In Progress
+T003,I cannot log in even after resetting my password Please look into it.,Login Issue,High,Closed
+T004,Need to link a new email id to my existing account,Account Update,Low,Open
+T005,The reset password page shows a server error,Application Error,Low,Closed
+T006,I need to change my registered mobile number Kindly resolve this soon.,Account Update,Low,Closed
+T007,"Hello, I want to add a new phone number to my profile",Account Update,Medium,Closed
+T008,Error shown when I try to change my email address,Account Update,Low,Open
+T009,Please help: The OTP for login is not being received on my phone,Login Issue,Medium,In Progress
+T010,Please help: I cannot log in even after resetting my password Please look into it.,Login Issue,High,In Progress
+T011,Quick question - The system throws a null reference error on the orders page Need help asap.,Application Error,Medium,Open
+T012,"Hello, Application performance has degraded since the last update It was working fine yesterday.",Performance,Low,Closed
+T013,Please schedule the inventory report to be emailed every Monday,Report,High,Closed
+T014,"Hi, I want to delete my old phone number from the account Thanks.",Account Update,Medium,In Progress
+T015,"Hello, I need a report of all customer orders for this year This is blocking my work.",Report,Low,In Progress
+T016,Urgent - The OTP for login is not being received on my phone It was working fine yesterday.,Login Issue,High,Closed
+T017,"Hi, Application performance has degraded since the last update",Performance,High,Open
+T018,"Hi, Please add a new chart to the monthly management report",Report,Low,Open
+T019,Unable to sign in and the app shows an error message,Login Issue,Medium,Closed
+T020,"Good morning, The upload feature fails with an error message This is blocking my work.",Application Error,High,Open
+T021,"Hi, I keep getting an error code 404 when opening my profile page",Application Error,,Open
+T022,"  HELLO, NEED TO LINK A NEW EMAIL ID TO MY EXISTING ACCOUNT!!  ",Account Update,Low,In Progress
+T023,Need support: I would like to change my notification preferences Kindly resolve this soon.,Account Update,Low,Closed
+T024,Slow response when downloading the attendance report,Performance,Medium,In Progress
+T025,My account details are wrong in the monthly report,Report,Low,Open
+T026,The app takes ages to respond when I click any button It started today.,Performance,High,Closed
+T027,"Hi, Please correct the spelling of my name in my account Please look into it.",Account Update,Medium,In Progress
+T028,The report shows wrong totals compared to my records Need help asap.,Report,Medium,In Progress
+T029,Urgent - Something went wrong message appears on every submit Thanks.,Application Error,High,Closed
+T030,"Hi team, The application shows an error while saving data",Application Error,High,Closed
+T031,"Hi, The software is very laggy and unresponsive Need help asap.",Performance,High,Open
+T032,Please update my email address on the account It was working fine yesterday.,Account Update,Medium,Open
+T033,Quick question - The system throws a null reference error on the orders page Thanks.,Application Error,High,In Progress
+T034,Urgent - Please update my email address on the account It started today.,Account Update,Low,Open
+T035,"Hello, The report shows wrong totals compared to my records",Report,Medium,In Progress
+T036,"Dear support, Unable to access my account because the login button does nothing Need help asap.",Login Issue,Medium,Closed
+T037,"Dear support, Forgot my username and need to recover it Thanks.",Login Issue,High,Open
+T038,Page load time is more than thirty seconds Kindly resolve this soon.,Performance,High,Open
+T039,Password reset email is not arriving Thanks.,Login Issue,High,Open
+T040,The exported report is missing some columns,Report,High,In Progress
+T041,Can you share the attendance report for last month Thanks.,Report,Medium,Closed
+T042,Request for a profit and loss report for the last quarter It was working fine yesterday.,Report,Medium,Closed
+T043,"Hi, Password reset email is not arriving It started today.",Login Issue,High,Closed
+T044,Something went wrong message appears on every submit Kindly resolve this soon.,Application Error,High,Closed
+T045,"Hi team, My login credentials are rejected every time Kindly resolve this soon.",Login Issue,Medium,In Progress
+T046,I forgot my password and cannot login It was working fine yesterday.,Login Issue,High,Open
+T047,  NEED A CUSTOM REPORT FILTERED BY REGION AND PRODUCT THIS IS BLOCKING MY WORK.!!  ,Report,High,Closed
+T048,,Performance,Medium,Closed
+T049,Application stops working with a database connection error,Application Error,High,Open
+T050,"Dear support, Search results take more than a minute to appear Thanks.",Performance,Medium,Open
+T051,Two factor authentication code is not working at sign in Please advise.,Login Issue,High,In Progress
+T052,Urgent - I forgot my password and cannot login,Login Issue,High,Closed
+T053,"Hello, Everything is running very sluggish and delayed",Performance,High,Closed
+T054,Please update my shipping address before the next order Please look into it.,Account Update,Low,Closed
+T055,I want to delete my old phone number from the account,Account Update,Medium,In Progress
+T056,Please help: Need a custom report filtered by region and product Thanks.,Report,Medium,In Progress
+T057,"Hi, I need to change my registered mobile number It was working fine yesterday.",Account Update,Low,Closed
+T058,Sign in with single sign on fails for my account,Login Issue,High,Closed
+T059,Need to update my mobile number but the page is not loading,Account Update,Low,Closed
+T060,"Good morning, The application shows an error while saving data",Application Error,Low,Open
+T061,Quick question - The software is very laggy and unresponsive,Performance,High,Closed
+T062,Report page is taking too long to open,Performance,High,Open
+T063,I get logged out immediately after entering my credentials It was working fine yesterday.,Login Issue,High,Open
+T064,"Hi team, Need to link a new email id to my existing account It started today.",Account Update,Medium,In Progress
+T065,"Hello, The app crashes whenever I open the dashboard",Application Error,High,Open
+T066,The dashboard report does not match the data in the summary sheet,Report,Low,Closed
+T067,Quick question - Two factor authentication code is not working at sign in,Login Issue,High,Closed
+T068,Please help: File upload is extremely slow compared to before,Performance,Low,Closed
+T069,"Hello, Loading the orders screen takes forever Need help asap.",Performance,Medium,Closed
+T070,How do I download the annual performance report,Report,Low,In Progress
+T071,Quick question - Forgot my username and need to recover it Need help asap.,Login Issue,High,Closed
+T072,Why does the profile page take so long to save my new address,Performance,Low,Closed
+T073,Urgent - My account got locked after too many wrong attempts This is blocking my work.,Login Issue,High,Open
+T074,I need a report of all customer orders for this year Thanks.,Report,Medium,Closed
+T075,Application error on the login screen after I reset my password,Application Error,High,Open
+T076,Quick question - Error occurred while updating the record and the changes are lost,Application Error,High,Closed
+T077,"Hello, File upload is extremely slow compared to before Thanks.",Performance,Medium,Closed
+T078,Loading the orders screen takes forever,Performance,Medium,In Progress
+T079,Need a custom report filtered by region and product,Report,High,Open
+T080,Login page keeps saying invalid username or password Kindly resolve this soon.,Login Issue,High,Open
+T081,"Hi, Please add a new chart to the monthly management report Need help asap.",Report,Medium,Open
+T082,The system gives an error when I try to export the sales report,Application Error,Low,Closed
+T083,Need support: I keep getting an error code 404 when opening my profile page Need help asap.,Application Error,High,Closed
+T084,Password change is very slow and times out,Performance,Low,
+T085,Quick question - Request for a profit and loss report for the last quarter Need help asap.,Report,Medium,Open
+T086,The reset password link has expired Please advise.,Login Issue,Medium,In Progress
+T087,I want to change the name on my profile Please look into it.,Account Update,Low,Closed
+T088,"Dear support, Data is not getting saved and an error popup appears",Application Error,High,In Progress
+T089,"Hi team, Please update my shipping address before the next order",Account Update,Low,In Progress
+T090,Urgent - The exported report is missing some columns,Report,High,Open
+T091,"Hi, Loading the orders screen takes forever It was working fine yesterday.",Performance,High,Closed
+T092,Quick question - The reset password link has expired It was working fine yesterday.,Login Issue,Medium,Open
+T093,"Dear support, The application crashed while I was entering customer details Kindly resolve this soon.",Application Error,Medium,Open
+T094,"Hi team, Loading the orders screen takes forever It started today.",Performance,Low,Closed
+T095,"Good morning, Please add a new chart to the monthly management report Please advise.",Report,Medium,In Progress
+T096,I need a report of all customer orders for this year It was working fine yesterday.,Report,Medium,Open
+T097,Need support: I get a 500 internal server error when I submit the form,Application Error,Low,In Progress
+T098,Need support: Request to change the account holder name It was working fine yesterday.,Account Update,Low,Closed
+T099,"Dear support, Request for a profit and loss report for the last quarter This is blocking my work.",Report,Low,In Progress
+T100,"Dear support, I need the quarterly revenue report for the finance team",Report,Medium,Open
+T101,"Please help, nothing works and I cannot get into the system",Login Issue,High,
+T102,"Hi team, Loading the orders screen takes forever It was working fine yesterday.",Performance,Medium,Closed
+T103,"Dear support, Password reset email is not arriving",Login Issue,High,In Progress
+T104,I want to delete my old phone number from the account This is blocking my work.,Account Update,Low,In Progress
+T105,The application crashed while I was entering customer details,Application Error,Medium,Open
+T106,"Hello, I want to change the name on my profile This is blocking my work.",Account Update,Low,Closed
+T107,Urgent - Request for a profit and loss report for the last quarter Kindly resolve this soon.,Report,Medium,Open
+T108,"Hi team, I am unable to sign in to my account Please advise.",Login Issue,Medium,In Progress
+T109,Quick question - Unable to export the report to Excel format It started today.,Report,High,Closed
+T110,Urgent - An unexpected exception message appears when I click save Need help asap.,Application Error,Medium,In Progress
+T111,Quick question - I want to add a new phone number to my profile,Account Update,Medium,Closed
+T112,Please help: Page load time is more than thirty seconds Kindly resolve this soon.,Performance,Medium,Closed
+T113,Please help: The software is very laggy and unresponsive Need help asap.,Performance,Medium,Open
+T114,"Hi team, The dashboard is lagging and hangs for a long time",Performance,Medium,Closed
+T115,"Good morning, The reset password link has expired Kindly resolve this soon.",Login Issue,,In Progress
+T116,"Hi, I get logged out immediately after entering my credentials",Login Issue,High,Closed
+T117,Urgent - The app takes ages to respond when I click any button Need help asap.,Performance,Medium,Closed
+T118,"Hello, How can I update my company details on the account",Account Update,Low,Open
+T119,"Hello, I want to change the name on my profile Kindly resolve this soon.",Account Update,Low,In Progress
+T120,Quick question - The upload feature fails with an error message Need help asap.,Application Error,Low,In Progress
+T121,"Hello, The upload feature fails with an error message",Application Error,Medium,Open
+T122,"Dear support, Error occurred while updating the record and the changes are lost",Application Error,High,In Progress
+T123,"Hi, My account got locked after too many wrong attempts Please advise.",Login Issue,Low,In Progress
+T124,"Hi team, Search results take more than a minute to appear",Performance,High,In Progress
+T125,"Good morning, The exported report is missing some columns This is blocking my work.",Report,Medium,In Progress
+T126,"Hi, I want to delete my old phone number from the account Please look into it.",Account Update,Low,In Progress
+T127,"Hi team, Please schedule the inventory report to be emailed every Monday",Report,Medium,Open
+T128,Need support: The dashboard is lagging and hangs for a long time,Performance,Medium,In Progress
+T129,The upload feature fails with an error message,Application Error,High,Closed
+T130,Quick question - Login page keeps saying invalid username or password,Login Issue,High,Closed
+T131,"Hi team, Sign in with single sign on fails for my account",Login Issue,Medium,Closed
+T132,Need support: Sign in with single sign on fails for my account Kindly resolve this soon.,Login Issue,High,Closed
+T133,"Hi, I need to change my registered mobile number Kindly resolve this soon.",Account Update,Low,Closed
+T134,The dashboard is lagging and hangs for a long time Please look into it.,Performance,Medium,Open
+T135,Quick question - I keep getting an error code 404 when opening my profile page,Application Error,High,In Progress
+T136,Urgent - File upload is extremely slow compared to before Please advise.,Performance,Low,Closed
+T137,"Hi, Application stops working with a database connection error It started today.",Application Error,High,In Progress
+T138,"Hi, The OTP for login is not being received on my phone It was working fine yesterday.",Login Issue,High,Closed
+T139,The exported report is missing some columns Please look into it.,Report,Medium,Closed
+T140,"Dear support, Page load time is more than thirty seconds Please advise.",Performance,High,In Progress
+T141,"Hi, Something went wrong message appears on every submit",Application Error,Low,Open
+T142,Urgent - Please update my shipping address before the next order It started today.,Account Update,Low,Closed
+T143,"Hi, Need to update my billing address Need help asap.",Account Update,Low,Closed
+T144,"Hi, The delete button gives a server error",Application Error,Medium,In Progress
+T145,The login page is very slow to load,Performance,High,Closed
+T146,Please help: Application stops working with a database connection error Please look into it.,Application Error,Medium,Closed
+T147,Quick question - How do I download the annual performance report,Report,High,Open
+T148,Quick question - File upload is extremely slow compared to before,Performance,Medium,Closed
+T149,"Dear support, I keep getting an error code 404 when opening my profile page",Application Error,Low,Closed
+T150,Quick question - Please schedule the inventory report to be emailed every Monday,Report,Medium,Open
+T151,"Hi, Please change my account type from basic to premium It was working fine yesterday.",Account Update,Low,Closed
+T152,"Good morning, I want a weekly summary report of all closed tickets Thanks.",Report,Medium,Closed
+T153,"Dear support, Please update my shipping address before the next order Please look into it.",Account Update,Low,Open
+T154,I want a report of all users who changed their phone number this month,Report,Low,Open
+T155,Need support: Please schedule the inventory report to be emailed every Monday,Report,Medium,Open
+T156,"Hi, I need to change my registered mobile number",Account Update,Low,In Progress
+T157,"Hi, I want to change the name on my profile Please look into it.",Account Update,Low,Open
+T158,Need to update my billing address Kindly resolve this soon.,Account Update,High,Closed
+T159,Urgent - The software is very laggy and unresponsive It was working fine yesterday.,Performance,Medium,Open
+T160,"Dear support, Login page keeps saying invalid username or password",Login Issue,Low,Open
+T161,Quick question - Loading the orders screen takes forever,Performance,Medium,Open
+T162,"Hi team, I am unable to sign in to my account This is blocking my work.",Login Issue,High,Open
+T163,"Hi, The delete button gives a server error Need help asap.",Application Error,Medium,Closed
+T164,Please update my email address on the account Please advise.,Account Update,Low,Open
+T165,Unable to access my account because the login button does nothing Thanks.,Login Issue,High,Open
+T166,Please help me generate my monthly sales report Need help asap.,Report,Medium,Closed
+T167,Need support: Please update my email address on the account,Account Update,Medium,Open
+T168,  PLEASE HELP: AN UNEXPECTED EXCEPTION MESSAGE APPEARS WHEN I CLICK SAVE!!  ,Application Error,Medium,Open
+T169,"Hello, The application freezes and then closes by itself",Application Error,High,In Progress
+T170,Need a custom report filtered by region and product Please look into it.,Report,Medium,In Progress
+T171,"Hi team, The reset password link has expired Please look into it.",Login Issue,Medium,Closed
+T172,  QUICK QUESTION - THE OTP FOR LOGIN IS NOT BEING RECEIVED ON MY PHONE!!  ,Login Issue,,Closed
+T173,Name on my account is wrong in the exported report,Account Update,Low,Open
+T174,Quick question - The dashboard is lagging and hangs for a long time Need help asap.,Performance,Medium,Closed
+T175,Please help: Loading the orders screen takes forever,Performance,Medium,Open
+T176,Please help me generate my monthly sales report It was working fine yesterday.,Report,Low,In Progress
+T177,"Hello, Need to update my billing address It was working fine yesterday.",Account Update,Low,Open
+T178,"Hi team, Please schedule the inventory report to be emailed every Monday This is blocking my work.",Report,Low,Closed
+T179,The app takes ages to respond when I click any button Thanks.,Performance,High,Closed
+T180,,Application Error,High,Closed
+T181,Urgent - Please update my profile picture and contact details Please look into it.,Account Update,Low,Closed
+T182,Urgent - The app takes ages to respond when I click any button Please advise.,Performance,Medium,Closed
+T183,"Good morning, The exported report is missing some columns Thanks.",Report,Low,Closed
+T184,Unable to export the report to Excel format This is blocking my work.,Report,Medium,In Progress
+T185,I cannot log in even after resetting my password,Login Issue,Medium,Closed
+T186,Urgent - I want to change the name on my profile,Account Update,Medium,Open
+T187,Dashboard is slow and also shows an error sometimes,Performance,Medium,Open
+T188,Data is not getting saved and an error popup appears,Application Error,High,In Progress
+T189,Need support: The OTP for login is not being received on my phone,Login Issue,Low,In Progress
+T190,My account got locked after too many wrong attempts,Login Issue,Low,Closed
+T191,My account got locked after too many wrong attempts It started today.,Login Issue,High,Closed
+T192,The application freezes and then closes by itself Thanks.,Application Error,High,Closed
+T193,"Good morning, The application shows an error while saving data Please advise.",Application Error,Medium,Open
+T194,An unexpected exception message appears when I click save,Application Error,High,
+T195,Report generation crashed with an error,Application Error,High,Closed
+T196,"Dear support, The system throws a null reference error on the orders page It was working fine yesterday.",Application Error,Medium,Closed
+T197,Please help: Loading the orders screen takes forever Please advise.,Performance,Low,Closed
+T198,"Hi team, My login credentials are rejected every time Please look into it.",Login Issue,Medium,In Progress
+T199,Please add a new chart to the monthly management report Kindly resolve this soon.,Report,Low,Open
+T200,Please help: Need to update my billing address It was working fine yesterday.,Account Update,Low,In Progress
+T201,Search results take more than a minute to appear,Performance,Medium,Closed
+T202,"Good morning, Application performance has degraded since the last update Please look into it.",Performance,Medium,Closed
+T203,Please correct the spelling of my name in my account It started today.,Account Update,Low,Open
+T204,"Hi, The app crashes whenever I open the dashboard Please look into it.",Application Error,High,Open
+T205,Need support: My account got locked after too many wrong attempts Please advise.,Login Issue,Medium,In Progress
+T206,"Good morning, Search results take more than a minute to appear",Performance,Low,Open
+T207,"Hello, Error occurred while updating the record and the changes are lost It started today.",Application Error,High,Closed
+T208,"Dear support, Application performance has degraded since the last update It started today.",Performance,Low,Open
+T209,Please update my email so that I can receive the password reset link,Account Update,Medium,Open
+T210,I cannot generate the report because I am logged out again and again,Login Issue,Low,Open
+T211,"Dear support, Please update my profile picture and contact details",Account Update,Medium,Open
+T212,"Good morning, I want to add a new phone number to my profile",Account Update,Low,Open
+T213,"Dear support, The upload feature fails with an error message Please look into it.",Application Error,,Closed
+T214,  PLEASE HELP: THE DASHBOARD IS LAGGING AND HANGS FOR A LONG TIME!!  ,Performance,Medium,Closed
+T215,Cannot access my account and need to update my registered email,Login Issue,High,Closed
+T216,"Hi team, Please help me generate my monthly sales report It started today.",Report,Medium,In Progress
+T217,Please add a new chart to the monthly management report,Report,High,In Progress
+T218,Need support: The exported report is missing some columns,Report,Medium,Closed
+T219,"Hello, The system response time has become extremely high Please advise.",Performance,High,In Progress
+T220,Need support: I would like to change my notification preferences,Account Update,Medium,Closed
+T221,Quick question - The reset password link has expired It was working fine yesterday.,Login Issue,Medium,Open
+T222,"Hello, The report shows wrong totals compared to my records",Report,Medium,In Progress
+T223,"Hello, I want to change the name on my profile This is blocking my work.",Account Update,Low,Closed
+T224,Urgent - Please update my profile picture and contact details Please look into it.,Account Update,Low,Closed
+T225,"Hi team, Please update my shipping address before the next order",Account Update,Low,In Progress
+T226,"Dear support, Password reset email is not arriving",Login Issue,High,In Progress
